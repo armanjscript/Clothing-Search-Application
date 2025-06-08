@@ -26,5 +26,5 @@ Before running the application, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/armanjscript/clothing-search-application.git
-   cd clothing-search-application
+   git clone https://github.com/armanjscript/Clothing-Search-Application.git
+   cd Clothing-Search-Application
